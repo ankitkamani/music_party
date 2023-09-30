@@ -7,7 +7,7 @@ Project Features:
 - audio player with playback controls.
 - video player with playback controls.
 - To implement a carousel slider functionality that enables users to swipe between multiple audio files and multiple video files.
-- - To implement a detail page of each audio and video file for play it with playback controls.
+- To implement a detail page of each audio and video file for play it with playback controls.
   
 Project Technologies:
 - Dart language
